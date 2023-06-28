@@ -29,9 +29,10 @@ wget [https://github.com/ultralytics/yolov5/releases/download/v5.0/yolov5s.pt](h
 ## Usage
 
 1. Run the script with the RTSP URL as a command-line argument:
-python optimized-yolo.py rtsp://your_rtsp_url
+   python optimized-yolo.py rtsp://your_rtsp_url
 
-2. Customize the settings:
+
+3. Customize the settings:
 
 - Batch Size: Specify the desired batch size by modifying the `batch_size` variable.
 - Time Interval: Specify the desired time interval in seconds by modifying the `time_interval` variable.
