@@ -43,6 +43,18 @@ python optimized-yolo.py rtsp://your_rtsp_url
 
 The script will display the video stream with bounding boxes and class labels for detected objects in real-time.
 
+
+# Repository Under Development
+
+**Note: This repository is currently under development, and as a result, you may encounter bugs or unexpected behavior.**
+
+We are actively working on improving and refining the codebase to provide a more stable and reliable experience. However, during this development phase, it is possible that you may encounter issues or errors while using the code.
+
+We appreciate your understanding and patience as we work towards resolving any bugs and making the necessary improvements. If you encounter any issues, please feel free to report them to us, and we will do our best to address them promptly.
+
+Thank you for your interest and support!
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
