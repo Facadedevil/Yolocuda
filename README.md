@@ -12,16 +12,15 @@ This repository contains code for performing real-time object detection using YO
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:  
 git clone [https://github.com/Facadedevil/Yolocuda](https://github.com/Facadedevil/Yolocuda)
 
-
-
-
 2. Install the required dependencies:
+```bash
 pip install opencv-python torch torchvision cupy
+```
 
-3. Download the YOLOv5 weights file:
+3. Download the YOLOv5 weights file:  
 wget [https://github.com/ultralytics/yolov5/releases/download/v5.0/yolov5s.pt](https://github.com/ultralytics/yolov5/releases/download/v5.0/yolov5s.pt)
 
 
